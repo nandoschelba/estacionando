@@ -1,2 +1,2 @@
 # estacionando
-Projeto de estacionamento em Java usando o PostgreSQL
+Projeto de estacionamento em Java com SpringBoot e usando o PostgreSQL
